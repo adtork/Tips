@@ -1,2 +1,4 @@
 # Tips
-Networking Simple scripts, Kusto queries and tips.
+Networking simple scripts, Kusto queries and tips.
+<br>
+Coming soon.......
